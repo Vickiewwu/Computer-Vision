@@ -1,2 +1,2 @@
 # Computer-Vision
-2023 Fall NTHU computer vision course
+2023 Fall computer vision course
